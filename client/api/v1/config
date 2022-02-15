@@ -3,7 +3,7 @@
 	"email": "",
 	"tg": "https://t.me/jiediangg",
 	"loginless": 1,
-	"loginless_link": "/api/v1/client/subscribe?lt=1token=6f327938baa4055fad811e47a0257bd5",
+	"loginless_link": "api/v1/client/subscribe?lt=1token=6f327938baa4055fad811e47a0257bd5",
 	"code_login": 0,
 	"code_register": 0,
 	"captcha_login": 0,
@@ -18,6 +18,6 @@
 		"Wechat": "1"
 	},
 	"hosts": [
-		"https://zcjd.top"
+		"https://zcjd.top/"
 	]
 }

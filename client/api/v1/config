@@ -1,23 +1,26 @@
 {
-	"target": 1,
-	"email": "",
-	"tg": "https://t.me/jiediangg",
-	"loginless": 1,
-	"loginless_link": "api/v1/client/subscribe?lt=1token=6f327938baa4055fad811e47a0257bd5",
-	"code_login": 0,
-	"code_register": 0,
-	"captcha_login": 0,
-	"captcha_register": 1,
-	"captcha_checkin": 1,
-	"notice": 1,
-	"checkin": 1,
-	"line_flag_regex": "",
-	"line_exclude_loc": 0,
-	"payment_config": {
-		"Alipay": "1",
-		"Wechat": "1"
-	},
-	"hosts": [
-		"https://zcjd.top/"
-	]
+  "key": "v2b_zcjs",
+  "host_source": "",
+  "target": 1,
+  "email": "",
+  "tg": "https://t.me/jiediangg",
+  "crisp": "",
+  "loginless": 0,
+  "loginless_link": "https://dy.zcjdgo.com/api/v1/client/subscribe?token=88df64a2e8c57800440c39efb8e80f96&lt=3",
+  "code_login": 0,
+  "code_register": 1,
+  "captcha_login": 1,
+  "captcha_register": 2,
+  "captcha_checkin": 1,
+  "notice": 1,
+  "checkin": 0,
+  "line_flag_regex": "",
+  "line_exclude_loc": 0,
+  "payment_config": {
+    "Alipay": "1",
+    "Wechat": "1"
+  },
+  "hosts": [
+    "https://gozcjd.com"
+  ]
 }
